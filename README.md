@@ -1,4 +1,4 @@
-# Slither.io-Mods
+# Slither.io-Mod
 
 Instructions
 
